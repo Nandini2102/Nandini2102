@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Nandini2102
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Nandini
+🎓 Final Year Computer Science Engineering Student
 
-<!---
-Nandini2102/Nandini2102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about Full Stack Web Development and OutSystems.
+
+🌱 Currently learning:
+- OutSystems
+- Python
+- Git & GitHub
+
+🚀 Projects
+- 🌦️ Weather Dashboard
+- 💼 Personal Portfolio
+- 🏗️ AI Structural Health Monitoring
+
+🛠️ Skills
+- HTML
+- CSS
+- Python
+- Git & GitHub
+
+📫 Reach me
+- Email: nandini.p210206@gmail.com
+  
+⭐ Thanks for visiting my profile!
